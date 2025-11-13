@@ -27,8 +27,7 @@
 课程笔记  
 *  必修  
     * 高等数学1  
-        * [杜毅2025](https://github.com/vacuoleC/JNU_LST_BS/tree/main/课程笔记/大一/高等数学1/杜毅2025)          
+        * [杜毅2025](https://github.com/vacuoleC/JNU_LST_BS/tree/main/课程笔记/必修/高等数学1/杜毅2025)          
     * 英语  
-    * 大学语文  
     * 基础化学
-        * [孟玉英2025](https://github.com/vacuoleC/JNU_LST_BS/tree/main/课程笔记/大一/基础化学/孟玉英2025)  
+        * [孟玉英2025](https://github.com/vacuoleC/JNU_LST_BS/tree/main/课程笔记/必修/基础化学/孟玉英2025)  
