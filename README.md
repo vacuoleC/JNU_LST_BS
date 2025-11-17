@@ -10,9 +10,11 @@
 
 快速跳转  
 
-[课程笔记大纲](https://github.com/vacuoleC/JNU_LST_BS/tree/main/必修/课程笔记/readme.md)  
-[png格式笔记](https://github.com/vacuoleC/JNU_LST_BS/tree/main/必修图片文件夹/readme.md)
-[课程课件](https://github.com/vacuoleC/JNU_LST_BS/tree/main/必修/课程课件/readme.md)，不过可能什么都没有，以后也不会有（汗
+[课程笔记大纲](https://github.com/vacuoleC/JNU_LST_BS/blob/main/课程笔记/必修/课程笔记/readme.md)  
+
+[png格式笔记](https://github.com/vacuoleC/JNU_LST_BS/blob/main/课程笔记/必修图片文件夹/readme.md)  
+
+[课程课件](https://github.com/vacuoleC/JNU_LST_BS/blob/main/必修/课程课件/readme.md)，不过可能什么都没有，以后也不会有（汗
 
 更多的学习资料你可以先参考[其他大佬整理的资料](https://github.com/nwuzmedoutlook/university)，~~以及我希望这个库也可以上去，但现在它还在更新~~  
 哦对了，21界的yyc学长[也有一个很多笔记的仓库，虽然没有必修课](https://github.com/Mengxiyyc/Knowledge_for_share_JNUbio)，对选修课感兴趣可以去看看啊  
